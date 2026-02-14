@@ -1,174 +1,83 @@
 # Yuz OS — V3
 
-Depois de quase um ano de desenvolvimento e experimentação, a **Yuz OS** está evoluindo novamente.
+Depois de quase um ano de desenvolvimento, experimentação e aprendizado, a **Yuz OS** está entrando em uma nova fase.
 
-As versões anteriores foram importantes para aprendizado e testes de ideias — principalmente a **V2**, que trouxe uma interface dinâmica, visual moderno e várias melhorias internas. Mesmo sendo inicialmente focada em experimentos ligados a cybersec, o projeto agora está seguindo um novo caminho.
+As versões anteriores foram fundamentais para testar ideias e evoluir tecnicamente — especialmente a **V2**, que trouxe uma interface dinâmica, visual moderno e diversas melhorias internas. O projeto, que começou com foco mais experimental, agora está sendo direcionado para algo mais sólido e utilizável no dia a dia.
 
-A **Yuz OS V3**, com lançamento previsto para **dia 15**, marca o início de uma fase mais sólida do projeto.
-
-## Objetivo
-
-Transformar a Yuz OS em uma **extensão realmente útil, estável e bem estruturada**, focada em:
-
-* Performance
-* Customização
-* Interface dinâmica
-* Estabilidade
-* Experiência do usuário
-
-## Sobre o projeto
-
-A Yuz OS começou como um projeto experimental, usado principalmente por mim e alguns amigos. Mesmo sem grande alcance até agora, o projeto continua evoluindo — e essa nova versão representa um passo importante nessa direção.
-
-Com base em feedbacks recebidos e nas experiências das versões anteriores, várias melhorias estão sendo implementadas.
-
-## Mudanças planejadas na V3
-
-* Reestruturação interna da extensão
-* Melhor organização do código
-* Novos recursos de personalização
-* Melhor desempenho geral
-* Licença mais definida e consistente
-* Base mais preparada para futuras atualizações
-
-## Filosofia do projeto
-
-Este projeto é, acima de tudo, um processo de aprendizado contínuo.
-Cada versão da Yuz OS representa evolução técnica, novas ideias e melhorias práticas.
-
-Mesmo que o projeto ainda seja pequeno, ele continua sendo desenvolvido com dedicação.
-
-## Lançamento
-
-**Yuz OS V3 — dia 15**
+A **Yuz OS V3** representa essa transição.
 
 ---
 
-Amo vocês... 
+## Objetivo
 
+Transformar a Yuz OS em uma **extensão estável, útil e bem estruturada**, focada em:
 
+* Performance
+* Customização
+* Interface moderna e dinâmica
+* Estabilidade
+* Experiência do usuário
+* Código mais organizado e sustentável
 
+---
 
+## Sobre o projeto
 
+A Yuz OS começou como um projeto experimental, usado principalmente por mim e alguns amigos próximos. Mesmo sem grande alcance até agora, o projeto continua evoluindo constantemente.
 
+Esta nova versão é menos sobre experimentar ideias aleatórias e mais sobre **construir uma base sólida para o futuro**.
 
+A V3 é, essencialmente, uma **reestruturação do projeto**.
 
+---
 
+## Mudanças na V3
 
+* Reestruturação interna da extensão
+* Melhor organização do código
+* Correções de bugs acumulados
+* Melhor desempenho geral
+* Melhorias na personalização
+* Base preparada para futuras versões
+* Definição mais clara de licença
 
+---
 
+## Interface e direção visual
 
+A nova versão também busca uma interface mais refinada e consistente, inspirada em experiências mais limpas e modernas de navegador — com foco em:
 
+* Visual minimalista
+* Componentes mais consistentes
+* Transparências e blur mais equilibrados
+* Layout mais estável
+* Menos poluição visual
 
+---
 
+## Filosofia do projeto
 
+A Yuz OS continua sendo, acima de tudo, um projeto de aprendizado contínuo.
 
+Cada versão representa evolução técnica, tentativa e erro, refatoração e melhoria incremental.
+O objetivo não é apenas lançar versões — é **evoluir o projeto de forma consistente**.
 
+---
 
+## Atualização de lançamento
 
+Devido a alguns **bugs inesperados encontrados durante a fase final**, o lançamento da V3 precisou ser ajustado.
 
+Isso garante que a versão seja publicada em um estado mais estável.
 
+### Nova previsão:
 
+**Yuz OS V3 — dia 20**
 
+---
 
+Mesmo sendo um projeto pequeno, ele continua sendo desenvolvido com dedicação.
 
+A V3 é só o começo da próxima fase da Yuz OS.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eita, se você veio até aqui? kakakaka então deve ter pego na minha mentira, eu não quero postar ela dia 15, eu quero bem antes eu só estou corrigindo bugs e melhorando ela aos poucos para deixar ela mais parecida com o safari sabe? KKKKKK
-Bem é uma extensão que vai ser bem completa, to planejando melhorar ela pro mercado assim pra deixar ela com mecanismos melhores, kakakak bem seis vão ver 1 versão aprimorada dessa extensão <3 amo vocês.
+Prometo trazer 1 nova, atualização que vai deixar vocês loucos na v4 <3 amo vocês tamo junto galera!
